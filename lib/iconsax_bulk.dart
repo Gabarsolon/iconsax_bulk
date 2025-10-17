@@ -1,4 +1,5 @@
 // ignore_for_file: constant_identifier_names
+
 class IconsaxBulk {
   static const twentyfour_support = 'packages/iconsax_bulk/assets/bulk/24-support.svg';
   static const threed_cube_scan = 'packages/iconsax_bulk/assets/bulk/3d-cube-scan.svg';
